@@ -1,0 +1,123 @@
+@media (max-width: 1467px) {
+    .aone{width:15%;}
+    .atwo{width:15%;}
+    .athree{width:15%;}
+    .admin-sidebar{width:155px;}
+
+    table{width:100%;}
+    th.table-id{width:30px !important; }
+    th.table-title{width:30px !important; }
+    th.en-table-title{width:30px !important; }
+    th.table-n_id{width:30px !important; }
+    th.table-a_author{width:30px !important; }
+    th.table-en_a_author{width:30px !important; }
+    th.table-a_date {width:30px !important; }
+    th.table-en_a_date {width:30px !important; }
+    th.table-laiyuan {wwidth:30px !important; }
+    th.table-a_feight {width:30px !important; }
+    th.table-set {width:30px !important; }
+
+    td.table-check{width:30px; }
+    td.table-id{width:30px !important;}
+    td.table-title{width:30px !important; }
+    td.en-table-title{width:30px !important; }
+    td.table-n_id{width:30px !important; }
+    td.table-a_author{width:30px !important; }
+    td.table-en_a_author{width:30px !important; }
+    td.table-a_date {width:30px !important; }
+    td.table-en_a_date {width:30px !important; }
+    td.table-laiyuan {wwidth:30px !important; }
+    td.table-a_feight {width:30px !important; }
+    td.table-set {width:30px !important; }
+
+}
+@media (max-width: 1357px) {
+    .aone{width:15%;}
+    .atwo{width:15%;}
+    .athree{width:15%;}
+    .admin-sidebar{width:155px;}
+
+    th.table-check{width:30px; }
+    th.table-id{width:30px !important;}
+    th.table-title{width:30px !important; }
+    th.en-table-title{width:10%;}
+    th.table-n_id{width:10%;}
+    th.table-a_author{width:10%;display: table-cell!important;}
+    th.table-en_a_author{width:10%;display: table-cell!important;}
+    th.table-a_date {width:10%;display: table-cell!important;}
+    th.table-en_a_date {width:10%;display: table-cell!important;}
+    th.table-laiyuan {width:10%;display: table-cell!important;}
+    th.table-a_feight {width:10%;display: table-cell!important;}
+    th.table-set {width:10%;display: table-cell!important;}
+}
+
+@media (max-width: 1200px) {
+    .aone{width:15%;}
+    .atwo{width:15%;}
+    .athree{width:15%;}
+    .admin-sidebar{width:155px;}
+
+    th.table-check{width:3%;}
+    th.table-id{width:3% !important;}
+    th.table-title{width: 10% !important;}
+    th.en-table-title{width:10%;}
+    th.table-n_id{width:10%;}
+    th.table-a_author{width:10%;display: table-cell!important;}
+    th.table-en_a_author{width:10%;display: table-cell!important;}
+    th.table-a_date {width:10%;display: table-cell!important;}
+    th.table-en_a_date {width:10%;display: table-cell!important;}
+    th.table-laiyuan {width:10%;display: table-cell!important;}
+    th.table-a_feight {width:10%;display: table-cell!important;}
+    th.table-set {width:10%;display: table-cell!important;}
+
+    td.table-check{width:3%;}
+    td.table-id{width:3% !important;}
+    th.table-title{width: 10% !important;}
+    td.en-table-title{width:10%;}
+    td.table-n_id{width:10%;}
+    td.table-a_author{width:10%;display: table-cell!important;}
+    td.table-en_a_author{width:10%;display: table-cell!important;}
+    td.table-a_date {width:10%;display: table-cell!important;}
+    td.table-en_a_date {width:10%;display: table-cell!important;}
+    td.table-laiyuan {width:10%;display: table-cell!important;}
+    td.table-a_feight {width:10%;display: table-cell!important;}
+    td.table-set {width:10%;display: table-cell!important;}
+
+}
+@media (max-width: 900px) {
+    .aone{width:15%;}
+    .atwo{width:15%;}
+    .athree{width:15%;}
+    .admin-sidebar{width:155px;}
+
+    th.table-check{width:3%;}
+    th.table-id{width:3% !important;}
+    th.table-title{width: 10% !important;}
+    th.en-table-title{width:10%;}
+    th.table-n_id{width:10%;}
+    th.table-a_author{width:10%;display: table-cell!important;}
+    th.table-en_a_author{width:10%;display: table-cell!important;}
+    th.table-a_date {width:10%;display: table-cell!important;}
+    th.table-en_a_date {width:10%;display: table-cell!important;}
+    th.table-laiyuan {width:10%;display: table-cell!important;}
+    th.table-a_feight {width:10%;display: table-cell!important;}
+    th.table-set {width:10%;display: table-cell!important;}
+}
+@media (max-width: 600px) {
+    .aone{width:20%;}
+    .atwo{width:20%;}
+    .athree{width:20%;}
+
+    th.table-check{width:3%;}
+    th.table-id{width:3% !important;}
+    th.table-title{width: 10% !important;}
+    th.en-table-title{width:10%;}
+    th.table-n_id{width:10%;}
+    th.table-a_author{width:10%;display: table-cell!important;}
+    th.table-en_a_author{width:10%;display: table-cell!important;}
+    th.table-a_date {width:10%;display: table-cell!important;}
+    th.table-en_a_date {width:10%;display: table-cell!important;}
+    th.table-laiyuan {width:10%;display: table-cell!important;}
+    th.table-a_feight {width:10%;display: table-cell!important;}
+    th.table-set {width:10%;display: table-cell!important;}
+}
